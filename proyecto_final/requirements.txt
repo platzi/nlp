@@ -1,0 +1,8 @@
+torch
+torchaudio
+torchvision
+wordcloud==1.9.4
+transformers==4.48.3
+gradio==5.22.0
+pillow==11.1.0
+pandas==2.2.2
