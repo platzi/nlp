@@ -1,0 +1,16 @@
+review_id,product_id,reviewer_id,stars,review_body,review_title,language,product_category
+ar_0001,product_ar_001,reviewer_ar_001,5,"La camiseta de Nike me encantó, la calidad es bárbara. Me la compré en descuento.","Excelente camiseta",es,clothing
+ar_0002,product_ar_002,reviewer_ar_002,2,"La remera de Adidas llegó mal y se rompió en dos días, una verguenza.","Mala experiencia",es,clothing
+ar_0003,product_ar_003,reviewer_ar_003,4,"Los jeans de Levis me quedaron perfectos, aunque el talle era medio chico.","Jeans perfectos",es,clothing
+ar_0004,product_ar_004,reviewer_ar_004,3,"El polo de H&M es decente, pero el material parece barato.","Material mediocre",es,clothing
+ar_0005,product_ar_005,reviewer_ar_005,1,"La remera de Zara estaba fatal, no sirve para nada, un completo desastre.","Desastre total",es,clothing
+ar_0006,product_ar_006,reviewer_ar_006,5,"Me re copa la sudadera de Nike, ¡una locura de diseño y confort!","Súper cómoda",es,clothing
+ar_0007,product_ar_007,reviewer_ar_007,4,"La chaqueta de Adidas tiene un estilo copado, ideal para el invierno.","Buena chaqueta",es,clothing
+ar_0008,product_ar_008,reviewer_ar_008,2,"La bufanda de Levis me pareció mal elaborada y se me desgastó rápido.","No la recomiendo",es,clothing
+ar_0009,product_ar_009,reviewer_ar_009,5,"Los zapatos de Nike son lo más, me sentí como en una pasarela.","Zapatos de primera",es,clothing
+ar_0010,product_ar_010,reviewer_ar_010,3,"La chaqueta de Zara es promedio, no destaca ni decepciona.","Regular",es,clothing
+ar_0011,product_ar_011,reviewer_ar_011,4,"La camiseta de H&M me quedó genial, aunque tenía algunos errores de costura.","Buen diseño",es,clothing
+ar_0012,product_ar_012,reviewer_ar_012,2,"El pantalón de Levis está mal confeccionado y se me rasgó en la entrepierna.","Decepcionante",es,clothing
+ar_0013,product_ar_013,reviewer_ar_013,5,"La sudadera de Nike es re copada, me encanta y es muy cómoda.","Súper copada",es,clothing
+ar_0014,product_ar_014,reviewer_ar_014,3,"La remera de Adidas tiene buena pinta, pero la calidad no es la que esperaba.","Más o menos",es,clothing
+ar_0015,product_ar_015,reviewer_ar_015,4,"Los jeans de Zara son cómodos, aunque se notan algunos defectos de fabricación.","Cómodos, pero...",es,clothing
